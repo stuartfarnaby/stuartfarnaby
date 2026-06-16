@@ -7,8 +7,8 @@ I am a senior programmer with over **18 years of experience** spanning mobile, w
 ## 🛠️ What I'm Working On
 
 *   **[Giki](https://gikiactions.com):** I work part-time contributing to the development and scaling of **Giki Actions**.
-*   **Echoes of the Gods:** I am currently developing a Metroidvania game for PC and Consoles. 
-*   **Cerberus SaaS Security:** Building a bespoke SaaS platform designed to help developers and agencies seamlessly manage security on their sites.
+*   **Echoes of the Gods:** A Metroidvania game for PC and Consoles which I'm working on with the members of [Big Bear Studios](https://bigbearstudios.co.uk). 
+*   **Cerberus SaaS Security:** A bespoke SaaS platform designed to help developers and agencies seamlessly manage security on their sites.
 
 ---
 
