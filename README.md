@@ -2,8 +2,6 @@
 
 I am a senior programmer with over **18 years of experience** spanning mobile, web, and games development. Currently, my primary focus is backend development, where I lean heavily into building robust solutions with Ruby on Rails. 
 
-[🌐 Personal Website](https://stuartfarnaby.co.uk) • [🛠️ Online Tools](https://tools.stuartfarnaby.co.uk) • [💼 LinkedIn](https://www.linkedin.com/in/stuartfarnaby)
-
 ---
 
 ## 🛠️ What I'm Working On
